@@ -5,7 +5,7 @@ Runs a live web dashboard at your Railway URL.
 Scanner runs in background, dashboard auto-updates every 15s.
 
 Railway Variables:
-  ODDS_API_KEY = your_key
+  ODDS_API_KEY = f4758bdf001434479d7b2993446949fb
   STAKE        = 30
   MIN_PROFIT   = 0.5
   PORT         = 8080  (Railway sets this automatically)
